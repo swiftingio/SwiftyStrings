@@ -17,7 +17,7 @@ extension String {
     static let Hello = NSLocalizedString("Hello!")
     static let ImpressMe = NSLocalizedString("Impress Me!")
     static let ThisApplicationIsCreated = NSLocalizedString("This application is created by the swifting.io team")
-    static let OpsNoFeature = NSLocalizedString("Ops! It looks like this feature haven't been implemented yet :(!")
+    static let OpsNoFeature = NSLocalizedString("Oops! It looks like this feature haven't been implemented yet :(!")
     static let OK = NSLocalizedString("OK")
 }
 
